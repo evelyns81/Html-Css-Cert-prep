@@ -16,7 +16,7 @@ li a, .dropBtn{
   text-decoration:none;
 }
 li a:hover, .dropDown:hover .dropBtn{
-  background-color:#bec9f2;
+  background-color:#ffffcc;
 }
 li .dropDown{
   display:lnline-block;
@@ -49,7 +49,7 @@ h1 {
   font-style: normal;
 }
 body {
-  background-color:#ffffe6;
+  background-color:#b3e6ff;
 }
 .left {
   width: 23.5%;
